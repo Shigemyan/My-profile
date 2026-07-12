@@ -10,17 +10,17 @@
 
 ## このリポジトリで管理する内容
 
-- `profile.md` … 基本プロフィール
-- `career.md` … 職歴・経歴
-- `achievements.md` … 実績・成果
-- `skills.md` … スキル一覧
-- `portfolio.md` … ポートフォリオ一覧
-- `projects/` … 制作物の詳細
-- `interview.md` … 面接の記録・振り返り
-- `preferences.md` … 自分の考え方・AIへの希望
-- `goals.md` … 短期・中期・長期の目標
-- `changelog.md` … 更新履歴
-- `prompts/` … AIごとの設定・プロンプト
+- [`00-project-rules.md`](00-project-rules.md) … プロジェクトの運用ルール
+- [`10-profile.md`](10-profile.md) … 基本プロフィール
+- [`15-environment.md`](15-environment.md) … 作業環境
+- [`20-career.md`](20-career.md) … 職歴・経歴
+- [`30-achievements.md`](30-achievements.md) … 実績・成果
+- [`40-skills.md`](40-skills.md) … スキル一覧
+- [`50-portfolio.md`](50-portfolio.md) … ポートフォリオ一覧
+- [`60-goals.md`](60-goals.md) … 短期・中期・長期の目標
+- [`70-preferences.md`](70-preferences.md) … 自分の考え方・AIへの希望
+- [`80-interview.md`](80-interview.md) … 面接の記録・振り返り
+- [`90-changelog.md`](90-changelog.md) … 更新履歴
 
 ## このリポジトリの使い方
 
