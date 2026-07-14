@@ -29,6 +29,7 @@ AIアシスタントは、作業を始める前に次の順番でファイルを
 - [`50-portfolio.md`](50-portfolio.md) … ポートフォリオ一覧
 - [`60-goals.md`](60-goals.md) … 短期・中期・長期の目標
 - [`70-preferences.md`](70-preferences.md) … 自分の考え方・AIへの希望
+- [`75-personality.md`](75-personality.md) … 性格診断の記録と自己理解の参考
 - [`80-interview.md`](80-interview.md) … 面接の記録・振り返り
 - [`90-changelog.md`](90-changelog.md) … 更新履歴
 
@@ -42,6 +43,7 @@ AIアシスタントは、作業を始める前に次の順番でファイルを
 - 制作したアプリケーションやツールを追加する場合は、`50-portfolio.md` に追記する
 - 短期・中期・長期の目標を更新する場合は、`60-goals.md` に追記する
 - 考え方、説明の好み、AIへの希望を更新する場合は、`70-preferences.md` に追記する
+- 性格診断の結果や自己理解のための記録を追加する場合は、`75-personality.md` に追記する
 - 面接の質問、回答、振り返りを追加する場合は、`80-interview.md` に追記する
 - リポジトリの運用ルールを変更する場合は、`00-project-rules.md` に追記する
 - ファイルの追加や内容・構成の変更を行った場合は、`90-changelog.md` に記録する
