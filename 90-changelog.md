@@ -92,6 +92,10 @@
 
 - Application Templates へのリンクと情報の追加先を追記
 
+### Application Templates 更新
+
+- 各回答をコピーしやすいコードブロック形式に変更
+
 ---
 
 ## 更新ルール
